@@ -1,5 +1,6 @@
 holi mi nombre es jenny 
 
-toy estudiando
+estoy estudiando
+como funciona git
 
 y aprendiendo muchos
