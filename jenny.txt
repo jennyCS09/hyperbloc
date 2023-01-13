@@ -3,4 +3,6 @@ holi mi nombre es jenny
 estoy estudiando
 como funciona git
 
-y aprendiendo muchos
+y aprendiendo mucho 
+
+ademas ya termine un curso
